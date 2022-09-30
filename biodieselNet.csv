@@ -1,0 +1,15 @@
+StreamIDs,Source,Target,Weight,Type,Price
+0,SEEDS,DHK1,271.2,Feed,296.3
+1,DHK1,HUSK,91.4,Product,50
+2,DHK1,OEX1,179.8,Intermediate,0
+3,OEX1,CAKE,75.1,Product,222.2
+4,OEX1,TRE1,104.7,Intermediate,0
+5,TRE1,MRE1,143.5,Intermediate,0
+6,MRE1,DEC1,116.2,Intermediate,0
+7,DEC1,BDD1,105.3,Intermediate,0
+8,BDD1,BIODIESEL,100,Product,674.8
+9,BDD1,OILYWASTE,5.3,Emission,0
+10,DEC1,GLYCEROL,10.7,Product,881.8
+11,MRE1,MIX1,27.2,Intermediate,0
+12,MIX1,TRE1,38.7,Intermediate,0
+13,MEOHMAKEUP,MIX1,11.5,Feed,0
