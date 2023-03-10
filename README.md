@@ -7,6 +7,6 @@ To use it:
 The code also generates and plots the process graph with the modules identified with different colors
 Enjoy!
 
-Please cite:
-Martinez-Hernandez et al. (2022). Digitalisation of chemical processes as graphs and application of modular decomposition to process design and analysis. Submitted for publication.
+If you use this code please kindly cite:
+Martinez-Hernandez et al. (2023). Digitalisation of chemical processes as graphs and application of modular decomposition to process design and analysis. Digital Chemical Engineering 6, 100075. https://doi.org/10.1016/j.dche.2022.100075 
 
