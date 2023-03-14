@@ -1,6 +1,6 @@
 # pmodularity
 Script for digital process graph, detecting process modules and getting modularity.
-Please go to the rigth panel and download the latest release.
+Please go to the "Releases" section on the right panel and download the latest release.
 To use it:
 1. Create a csv file with stream list witht the structure as in the example (biodieselNet.csv)
 2. Create a csv file with node list and data, see example (Equipment_data.csv)
